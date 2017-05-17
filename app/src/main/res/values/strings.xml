@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ejemplo de SQLite</string>
+    <string name="app_descripcion">Programa que realiza operaciones con base de datos de SQLite</string>
+    <string name="btn_ingresar">Entrar</string>
+    <string name="txt_Altas">Altas</string>
+    <string name="txt_Bajas">Bajas</string>
+    <string name="txt_Modificaciones">Modificaciones</string>
+    <string name="txt_Consultas">Consultas</string>
+    <string name="txt_Menu_principal">Regresar al menú</string>
+    <string name="txt_Nombres">Nombres</string>
+    <string name="txt_Apellidos">Apellidos</string>
+    <string name="txt_FechaNac">Fecha de nacimiento</string>
+    <string name="txt_Calificacion">Calificación</string>
+    <string name="txt_Activo">Activo</string>
+    <string name="txt_Dia">Día</string>
+    <string name="txt_Mes">Mes</string>
+    <string name="txt_Anyo">Año</string>
+    <string name="txt_fecha_separador">/</string>
+    <string name="txt_Grabar">Grabar</string>
+    <string name="txt_Borrar">Borrar</string>
+    <string name="txt_Modificar">Modificar</string>
+    <string name="txt_Buscarid">Buscar ID</string>
+    <string name="txt_Buscar">Buscar</string>
+
+</resources>
